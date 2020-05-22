@@ -1,0 +1,10 @@
+user: xxx
+pwd: xxx
+phonenumber: xxxxxxxx
+ext: xxx
+priority: xxx
+userid: xxx
+url: http://127.0.0.1:8080/sms2
+#短信接口地址
+tempPath: sms.tmpl
+#模板文件地址

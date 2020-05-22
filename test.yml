@@ -1,0 +1,5 @@
+user: daiwj
+pwd: xxx
+url: http://127.0.0.1:8080/sms2
+tempPath: sms.tmpl
+userid: 10
