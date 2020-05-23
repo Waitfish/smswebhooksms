@@ -20,7 +20,7 @@
 # 查看支持的环境
 go tool dist list 
 # 在 macos 下编译 linux 的包
-GOOS=darwin GOARCH=linux/amd64 go build 
+GOOS=linux GOARCH=amd64 go build 
 ```
 ## Docker 
 ### Dockerfile1-internet
